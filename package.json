@@ -1,0 +1,22 @@
+{
+  "name": "deploywgithub",
+  "version": "1.0.0",
+  "description": "Deploy Nodejs to Heroku with Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viyankawr/deploywgithub.git"
+  },
+  "author": "Viyanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viyankawr/deploywgithub/issues"
+  },
+  "homepage": "https://github.com/viyankawr/deploywgithub#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
